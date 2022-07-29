@@ -2388,8 +2388,9 @@
     "clean-stack" "^2.0.0"
     "indent-string" "^4.0.0"
 
-"agora-rtc-react@git://github.com/AgoraIO-Community/agora-rtc-react.git#v1.0.1":
+"agora-rtc-react@github:AgoraIO-Community/agora-rtc-react#v1.0.1":
   "resolved" "git+ssh://git@github.com/AgoraIO-Community/agora-rtc-react.git#3fe3c8048e5f6d37d56205e7dd7dd90e8dc49a98"
+  "version" "1.0.1"
   dependencies:
     "agora-rtc-sdk-ng" "^4.3.0"
 
